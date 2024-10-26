@@ -1,2 +1,2 @@
-# ProyectoFinal-Programaci-n2
+# ProyectoFinal-Programacion2
 Avances sobre el proyecto final.
